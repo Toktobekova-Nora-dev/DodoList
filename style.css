@@ -1,0 +1,149 @@
+body{
+    background: rgb(80, 214, 255);
+}
+.header{
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    font-weight: bolder;
+    margin-top: 200px;
+}
+.header button{
+    width: 120px;
+    height: 50px;
+    box-shadow: 2px 3px 2px 3px solid gray;
+    border-radius: 30px;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    color: rgb(12, 25, 66);
+    font-weight: 800;
+}
+.container{
+    width: 600px;
+    min-height: 100vh;
+    margin: auto;
+    background-color: rgb(30, 62, 90);
+    box-shadow: 10px 10px 24px 0 black;
+                          
+    text-align: center;
+    padding-top: 30px;
+    display: none;
+}
+.container input{
+   width: 400px;
+   height: 70px;
+  outline: none;
+  cursor: pointer;
+  border: chocolate;
+  background-color: rgb(30, 62, 90);
+  box-shadow: 10px 10px 24px 0 rgb(255, 255, 255);
+  font-size: 30px;
+  color: aliceblue;
+}
+
+.btn{
+    width: 60px;
+    height: 70px;
+    background-color: rgb(30, 62, 90);
+    cursor: pointer;
+    outline: none;
+    box-shadow: 10px 10px 24px 0 black;
+}
+
+.btn:hover{
+    background-color: black;
+}
+.btn ion-icon{
+    font-size: 30px;
+    font-weight: 800;
+    color: aliceblue;
+}
+.btn-2{
+    font-size: 30px;
+    font-weight: 800;
+    color: aliceblue; 
+}
+.second-header ion-icon{
+    font-size: 30px;
+    font-weight: 800;
+    color: aliceblue;
+}
+.second-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li{
+    margin-top: 60px;
+    margin-right: 40px;
+    width: 400px;
+    height: 70px;
+    background-color: rgb(224, 224, 224);
+    cursor: pointer;
+    outline: none;
+    border-bottom: 5px solid black;
+    color: black;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    padding-left: 20px;
+}
+
+
+/* .btn_00{
+    width: 60px;
+    height: 70px;
+    background-color: rgb(30, 62, 90);
+    cursor: pointer;
+    outline: none;
+    box-shadow: 10px 10px 24px 0 black;
+
+} */
+
+
+.second-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+
+
+
+
+.btn_{
+    width: 90px;
+    height: 70px;
+    background-color: rgb(148, 29, 27);
+    cursor: pointer;
+    outline: none;
+    box-shadow: 10px 10px 24px 0 black;
+    position: absolute;
+    left: 890px;
+    border: none;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+li{
+    margin-left: 68px;
+    width: 400px;
+    height: 70px;
+   outline: none;
+   cursor: pointer;
+   border: chocolate;
+   background-color: rgb(255, 255, 255);
+   box-shadow: 10px 10px 24px 0 rgb(0, 0, 0);
+   font-size: 30px;
+   color: rgb(0, 0, 0);
+   display: flex;
+   align-items: center;
+};
+
+
+
